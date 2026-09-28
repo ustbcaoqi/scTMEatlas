@@ -1,0 +1,10 @@
+Neutrophil 3259 3260 Neutrophil 906 907 thickness=6.15399219295751
+Macrophage 4141 4142 Neutrophil 967 968 thickness=4.84196344654567
+Macrophage 7277 7278 Neutrophil 1028 1029 thickness=3.43735604048565
+Macrophage 1842 1843 Neutrophil 1089 1090 thickness=3.31391782762141
+Neutrophil 477 478 Neutrophil 1151 1152 thickness=3.31093141924566
+Neutrophil 3601 3602 Neutrophil 404 405 thickness=3.07958398217807
+Neutrophil 4582 4583 Neutrophil 1212 1213 thickness=3.0003449481679
+Neutrophil 1639 1640 Neutrophil 1273 1274 thickness=2.61211185932069
+Macrophage 4689 4690 Neutrophil 598 599 thickness=2.42301787274573
+Neutrophil 2092 2093 Neutrophil 1334 1335 thickness=2.39410404789111

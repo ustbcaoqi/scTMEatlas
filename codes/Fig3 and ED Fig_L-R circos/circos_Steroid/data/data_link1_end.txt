@@ -1,0 +1,5 @@
+Neutrophil 1849 1850 1
+Neutrophil 572 573 1
+Macrophage 647 648 1
+Macrophage 4826 4827 1
+Macrophage 3917 3918 1

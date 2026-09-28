@@ -1,0 +1,5 @@
+Mast 98 99 Neutrophil 1849 1850 thickness=34.3210878404232
+Mast 190 191 Neutrophil 572 573 thickness=12.7698892902043
+Mast 281 282 Macrophage 647 648 thickness=12.2873997704233
+Mast 373 374 Macrophage 4826 4827 thickness=9.27452076912403
+Mast 464 465 Macrophage 3917 3918 thickness=7.93427210306565

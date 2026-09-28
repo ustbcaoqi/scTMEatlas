@@ -1,0 +1,10 @@
+Macrophage 3814 3815 Macrophage 6750 6751 thickness=3.17849852846588
+Macrophage 4049 4050 Macrophage 4133 4134 thickness=2.82971290749873
+Macrophage 4284 4285 Macrophage 8383 8384 thickness=2.81151539683957
+Macrophage 4519 4520 Neutrophil 3272 3273 thickness=2.15943793155316
+Macrophage 4754 4755 Macrophage 2547 2548 thickness=1.91377153765455
+Macrophage 9572 9573 Macrophage 7137 7138 thickness=1.81349916041305
+Macrophage 4989 4990 Macrophage 5789 5790 thickness=1.61654553022168
+Macrophage 9760 9761 Macrophage 4682 4683 thickness=1.61449877544406
+Macrophage 9948 9949 Macrophage 8852 8853 thickness=1.60411614666307
+Macrophage 7148 7149 Macrophage 7524 7525 thickness=1.58583676581281

@@ -1,0 +1,12 @@
+chr - CD8T CD8T 0 23445 CD8T color=ccebc5
+chr - CD4T CD4T 0 24128 CD4T color=66c2a5
+chr - NK NK 0 2958 NK color=ffed6f
+chr - ILC ILC 0 128 ILC color=b3de69
+chr - B B 0 5525 B color=fd8d3c
+chr - Neutrophil Neutrophil 0 1776 Neutrophil color=e41a1c
+chr - Macrophage Macrophage 0 5074 Macrophage color=bc80bd
+chr - DC DC 0 1503 DC color=fccde5
+chr - Mast Mast 0 698 Mast color=fdb462
+chr - EC EC 0 2018 EC color=bebada
+chr - Fb Fb 0 3286 Fb color=6a3d9a
+chr - Tumor Tumor 0 6830 Tumor color=1f78b4
