@@ -14,7 +14,8 @@ adata= sc.read_h5ad('./Visium_dataset.h5ad')
 adata.shape
 
 
-sc.pp.filter_cells(adata, min_counts=5000)
+sc.pp.filter_cells(adata, min_counts=500)
+sc.pp.filter_cells(adata, min_genes=200)
 sc.pp.filter_cells(adata, max_counts=35000)
 adata = adata[adata.obs['pct_counts_mt'] < 20].copy()
 print(f'#cells after MT filter: {adata.n_obs}')
